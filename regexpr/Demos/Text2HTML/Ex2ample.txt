@@ -1,0 +1,10 @@
+<html>
+<body>
+My name is Andrey Sorokin, I am software developer from Saint-Petersburg, Russia.
+<P>
+I am working in digital-cash payment system for Internet project: <a href="http://www.paycash.ru">www.paycash.ru</a>, 
+<a href="http://www.cyphermint.com">www.cyphermint.com</a>. 
+<P>
+Please, feel free to contact me <a href="mailto:anso@mail.ru">anso@mail.ru</a>, <a href="mailto:anso@paycash.ru">anso@paycash.ru</a>.
+</body>
+</html>
